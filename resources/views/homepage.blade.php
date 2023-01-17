@@ -19,35 +19,34 @@
             <div class="container">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">Services</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h3 class="section-subheading text-muted">Dine me In!</h3>
                 </div>
                 <div class="row text-center">
                     <div class="col-md-4">
                         <span class="fa-stack fa-4x">
-                            <i class="fas fa-circle fa-stack-2x text-primary"></i>
-                            <i class="fas fa-shopping-cart fa-stack-1x fa-inverse"></i>
+                            <img class="img-fluid" src="assets/img/service/dine-in.jpg" alt="...">
                         </span>
-                        <h4 class="my-3">Dine-in</h4>
-                        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                        <h3 class="my-3">Dine-in</h3>
                     </div>
                     <div class="col-md-4">
                         <span class="fa-stack fa-4x">
-                            <i class="fas fa-circle fa-stack-2x text-primary"></i>
-                            <i class="fas fa-laptop fa-stack-1x fa-inverse"></i>
+                            <img class="img-fluid" src="assets/img/service/delivery.png" alt="...">
                         </span>
-                        <h4 class="my-3">Costumer Pickup</h4>
-                        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                        <h3 class="my-3">Costumer Pickup</h3><br>
+                        <h6>Payment Method:</h6>
+                            <p class="text-muted">
+                            Accepts Cash <br> Visa <br> Mastercard <br> Credit Cards <br> GCash
+                            </p>
                     </div>
                     <div class="col-md-4">
                         <span class="fa-stack fa-4x">
-                            <i class="fas fa-circle fa-stack-2x text-primary"></i>
-                            <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
+                           <img class="img-fluid" src="assets/img/service/take-out.jpg" alt="...">
                         </span>
-                        <h4 class="my-3">Delivery area 5km</h4>
-                        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                        <h3 class="my-3">Delivery area 5km</h3>
                     </div>
                 </div>
             </div>
+           
         </section>
         <!-- menu Grid-->
         <section class="page-section bg-light" id="menu">
@@ -64,7 +63,7 @@
                                 <div class="menu-hover">
                                     <div class="menu-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/menu/1.jpg" alt="..." />
+                                <img class="img-fluid" src="assets/img/menu/11.jpg" alt="..." />
                             </a>
                             <div class="menu-caption">
                                 <div class="menu-caption-heading">Pad Thai</div>
@@ -79,7 +78,7 @@
                                 <div class="menu-hover">
                                     <div class="menu-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/menu/2.jpg" alt="..." />
+                                <img class="img-fluid" src="assets/img/menu/12.jpg" alt="..." />
                             </a>
                             <div class="menu-caption">
                                 <div class="menu-caption-heading">Chicken Burger</div>
@@ -94,7 +93,7 @@
                                 <div class="menu-hover">
                                     <div class="menu-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/menu/3.jpg" alt="..." />
+                                <img class="img-fluid" src="assets/img/menu/13.jpg" alt="..." />
                             </a>
                             <div class="menu-caption">
                                 <div class="menu-caption-heading">Tapsilog</div>
@@ -109,7 +108,7 @@
                                 <div class="menu-hover">
                                     <div class="menu-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/menu/4.jpg" alt="..." />
+                                <img class="img-fluid" src="assets/img/menu/14.jpg" alt="..." />
                             </a>
                             <div class="menu-caption">
                                 <div class="menu-caption-heading">Pork Satay</div>
@@ -124,7 +123,7 @@
                                 <div class="menu-hover">
                                     <div class="menu-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/menu/5.jpg" alt="..." />
+                                <img class="img-fluid" src="assets/img/menu/15.jpg" alt="..." />
                             </a>
                             <div class="menu-caption">
                                 <div class="menu-caption-heading">CheeseCake</div>
@@ -139,13 +138,16 @@
                                 <div class="menu-hover">
                                     <div class="menu-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/menu/6.jpg" alt="..." />
+                                <img class="img-fluid" src="assets/img/menu/16.jpg" alt="..." />
                             </a>
                             <div class="menu-caption">
                                 <div class="menu-caption-heading">Thai Pork Rib Soup</div>
                                 <div class="menu-caption-subheading text-muted">Menu#6</div>
                             </div>
                         </div>
+                    </div>
+                    <div class="text-center"><br>
+                    <a class="btn btn-primary btn-xl text-uppercase" href="assets/img/menu/Cha'ah Menu.jpg"  rel="noopener noreferrer" target="_blank" >Menu</a>
                     </div>
                 </div>
             </div>
@@ -158,7 +160,7 @@
                 </div>
                 <ul class="timeline">
                     <li>
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/1.jpg" alt="..." /></div>
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/5.png" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
                                 <h4>Location</h4>
@@ -167,7 +169,7 @@
                         </div>
                     </li>
                     <li class="timeline-inverted">
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/2.jpg" alt="..." /></div>
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/6.png" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
                                 <h4>Open Hours</h4>
@@ -176,7 +178,7 @@
                         </div>
                     </li>
                     <li>
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/3.jpg" alt="..." /></div>
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/7.png" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
                                 <h4>Contact Number</h4>
@@ -185,7 +187,7 @@
                         </div>
                     </li>
                     <li class="timeline-inverted">
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/4.jpg" alt="..." /></div>
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/8.jpg" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
                                 <h4>Facebook Page</h4>
@@ -246,16 +248,17 @@
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-md-3 col-sm-6 my-3">
-                        <a href="https://www.google.com/maps/place/Cha'ah+Bubble+Tea/@8.9415709,125.5353307,17z/data=!4m5!3m4!1s0x3301c157d206cca7:0xf997725934505929!8m2!3d8.9415942!4d125.535392"><img class="img-fluid img-brand d-block mx-auto" src="assets/img/logos/Googlemap.jpg" alt="..." aria-label="GoogleMap Logo" /></a>
+                        <a href="https://www.google.com/maps/place/Cha'ah+Bubble+Tea/@8.9415709,125.5353307,17z/data=!4m5!3m4!1s0x3301c157d206cca7:0xf997725934505929!8m2!3d8.9415942!4d125.535392" rel="noopener noreferrer" target="_blank">
+                        <img class="img-fluid img-brand d-block mx-auto" src="assets/img/logos/Googlemap.jpg" alt="..." aria-label="GoogleMap Logo" /></a>
                     </div>
                     <div class="col-md-3 col-sm-6 my-3">
-                        <a href="https://www.facebook.com/chaahbyjuyens1"><img class="img-fluid img-brand d-block mx-auto" src="assets/img/logos/facebook.jpg" alt="..." aria-label="Facebook Logo" /></a>
+                        <a href="https://www.facebook.com/chaahbyjuyens1" rel="noopener noreferrer" target="_blank"><img class="img-fluid img-brand d-block mx-auto" src="assets/img/logos/facebook.jpg" alt="..." aria-label="Facebook Logo" /></a>
                     </div>
                     <div class="col-md-3 col-sm-6 my-3">
-                        <a href="https://www.instagram.com/chaahbyjuyens/?hl=en"><img class="img-fluid img-brand d-block mx-auto" src="assets/img/logos/logo-instagram.webp" alt="..." aria-label="Instagram Logo" /></a>
+                        <a href="https://www.instagram.com/chaahbyjuyens/?hl=en" rel="noopener noreferrer" target="_blank"><img class="img-fluid img-brand d-block mx-auto" src="assets/img/logos/logo-instagram.webp" alt="..." aria-label="Instagram Logo" /></a>
                     </div>
                     <div class="col-md-3 col-sm-6 my-3">
-                        <a href="https://mobile.twitter.com/chaahbyjuyens"><img class="img-fluid img-brand d-block mx-auto" src="assets/img/logos/twitterlogo.png" alt="..." aria-label="Twitter Logo" /></a>
+                        <a href="https://mobile.twitter.com/chaahbyjuyens" rel="noopener noreferrer" target="_blank"><img class="img-fluid img-brand d-block mx-auto" src="assets/img/logos/twitterlogo.png" alt="..." aria-label="Twitter Logo" /></a>
                     </div>
                 </div>
             </div>
@@ -265,7 +268,7 @@
             <div class="container">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">Contact Us</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <br>
                 </div>
                 <!-- * * * * * * * * * * * * * * *-->
                 <!-- * * SB Forms Contact Form * *-->
@@ -279,26 +282,25 @@
                         <div class="col-md-6">
                             <div class="form-group">
                                 <!-- Name input-->
-                                <input class="form-control" id="name" type="text" placeholder="Your Name *" data-sb-validations="required" />
-                                <div class="invalid-feedback" data-sb-feedback="name:required">A name is required.</div>
+                                <input class="form-control" id="name" type="text" placeholder="FullName" data-sb-validations="required" />
+                                <div class="invalid-feedback" data-sb-feedback="name:required">Name is required</div>
                             </div>
                             <div class="form-group">
                                 <!-- Email address input-->
-                                <input class="form-control" id="email" type="email" placeholder="Your Email *" data-sb-validations="required,email" />
-                                <div class="invalid-feedback" data-sb-feedback="email:required">An email is required.</div>
-                                <div class="invalid-feedback" data-sb-feedback="email:email">Email is not valid.</div>
+                                <input class="form-control" id="email" type="email" placeholder="Email" data-sb-validations="required,email" />
+                                <div class="invalid-feedback" data-sb-feedback="email:required">Email is required</div>
+                                <div class="invalid-feedback" data-sb-feedback="email:email">Email is not valid</div>
                             </div>
                             <div class="form-group mb-md-0">
                                 <!-- Phone number input-->
-                                <input class="form-control" id="phone" type="tel" placeholder="Your Phone *" data-sb-validations="required" />
-                                <div class="invalid-feedback" data-sb-feedback="phone:required">A phone number is required.</div>
+                                <input class="form-control" id="phone" type="tel" placeholder="PhoneNumber" data-sb-validations="required" />
+                                <div class="invalid-feedback" data-sb-feedback="phone:required">PhoneNUmber is required</div>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="form-group form-group-textarea mb-md-0">
                                 <!-- Message input-->
-                                <textarea class="form-control" id="message" placeholder="Your Message *" data-sb-validations="required"></textarea>
-                                <div class="invalid-feedback" data-sb-feedback="message:required">A message is required.</div>
+                                <textarea class="form-control" id="message" placeholder="Your Message:" data-sb-validations="required"></textarea>
                             </div>
                         </div>
                     </div>
@@ -330,9 +332,12 @@
                 <div class="row align-items-center">
                     <div class="col-lg-4 text-lg-start">Copyright &copy; Your Website 2022</div>
                     <div class="col-lg-4 my-3 my-lg-0">
-                        <a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/chaahbyjuyens1" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
-                        <a class="btn btn-dark btn-social mx-2" href="https://www.instagram.com/chaahbyjuyens/?hl=en" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
-                        <a class="btn btn-dark btn-social mx-2" href="https://mobile.twitter.com/chaahbyjuyens" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
+                        <a href="https://www.facebook.com/chaahbyjuyens1" class="btn btn-dark btn-social mx-2" rel="noopener noreferrer" target="_blank" aria-laber="Facebook">
+                        <i class="fab fa-facebook"></i></a>
+                        <a href="https://www.instagram.com/chaahbyjuyens/?hl=en" class="btn btn-dark btn-social mx-2" rel="noopener noreferrer" target="_blank" aria-laber="Instagram">
+                        <i class="fab fa-instagram"></i></a>
+                        <a href="https://mobile.twitter.com/chaahbyjuyens" class="btn btn-dark btn-social mx-2" rel="noopener noreferrer" target="_blank" aria-laber="Twitter">
+                        <i class="fab fa-twitter"></i></a>
                     </div>
                     <div class="col-lg-4 text-lg-end">
                         <a class="link-dark text-decoration-none me-3" href="#!">Privacy Policy</a>
@@ -352,23 +357,14 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Project Name</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/menu/1.jpg" alt="..." />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-                                    <ul class="list-inline">
-                                        <li>
-                                            <strong>Client:</strong>
-                                            Threads
-                                        </li>
-                                        <li>
-                                            <strong>Category:</strong>
-                                            Illustration
-                                        </li>
-                                    </ul>
+                                    <h2 class="text-uppercase">Pad Thai</h2>
+                                    <p class="item-intro text-muted">A stir-fried rice noodle dish commonly served as a street food.</p>
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/menu/11.jpg" alt="..." />
+                                    <p>It is typically made with rice noodles, shrimp, peanuts, a scrambled egg, and bean sprouts, among other vegetables. 
+                                        The ingredients are fried in a wok.</p>
                                     <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
                                         <i class="fas fa-xmark me-1"></i>
-                                        Close Project
+                                        Close Menu
                                     </button>
                                 </div>
                             </div>
@@ -387,23 +383,13 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Project Name</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/menu/2.jpg" alt="..." />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-                                    <ul class="list-inline">
-                                        <li>
-                                            <strong>Client:</strong>
-                                            Explore
-                                        </li>
-                                        <li>
-                                            <strong>Category:</strong>
-                                            Graphic Design
-                                        </li>
-                                    </ul>
+                                    <h2 class="text-uppercase">Chicken Burger</h2>
+                                    <p class="item-intro text-muted">Bread crumbs and milk keep these chicken burgers unbelievably moist and flavourful.</p>
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/menu/12.jpg" alt="..." />
+                                    <p>These burgers are loaded with tender & succulent chicken patties, dressed with a simple sauce.</p>
                                     <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
                                         <i class="fas fa-xmark me-1"></i>
-                                        Close Project
+                                        Close Menu
                                     </button>
                                 </div>
                             </div>
@@ -422,23 +408,12 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Project Name</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/menu/3.jpg" alt="..." />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-                                    <ul class="list-inline">
-                                        <li>
-                                            <strong>Client:</strong>
-                                            Finish
-                                        </li>
-                                        <li>
-                                            <strong>Category:</strong>
-                                            Identity
-                                        </li>
-                                    </ul>
+                                    <h2 class="text-uppercase">Tapsilog</h2><br>
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/menu/13.jpg" alt="..." />
+                                    <p>Tapsilog, a popular Filipino meal, is a portmanteau of the dish's three components:beef, sinangag, and itlog.</p>
                                     <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
                                         <i class="fas fa-xmark me-1"></i>
-                                        Close Project
+                                        Close Menu
                                     </button>
                                 </div>
                             </div>
@@ -457,29 +432,21 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Project Name</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/menu/4.jpg" alt="..." />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-                                    <ul class="list-inline">
-                                        <li>
-                                            <strong>Client:</strong>
-                                            Lines
-                                        </li>
-                                        <li>
-                                            <strong>Category:</strong>
-                                            Branding
-                                        </li>
-                                    </ul>
+                                    <h2 class="text-uppercase">Pork Satay</h2>
+                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.Throughout Southeast Asia, 
+                                        little skewers of marinated meat, grilled over coals, are sold as street snacks.</p>
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/menu/14.jpg" alt="..." />
+                                    <p>Sweetly fragrant with coconut milk and spices, they are perfect for barbecue parties served with steamed rice, 
+                                        or on their own with drinks, whether grilled indoors or out.</p>
                                     <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
                                         <i class="fas fa-xmark me-1"></i>
-                                        Close Project
+                                        Close Menu
                                     </button>
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> 
             </div>
         </div>
         <!-- menu item 5 modal popup-->
@@ -492,23 +459,14 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Project Name</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/menu/5.jpg" alt="..." />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-                                    <ul class="list-inline">
-                                        <li>
-                                            <strong>Client:</strong>
-                                            Southwest
-                                        </li>
-                                        <li>
-                                            <strong>Category:</strong>
-                                            Website Design
-                                        </li>
-                                    </ul>
+                                    <h2 class="text-uppercase">CheeseCake</h2>
+                                    <p class="item-intro text-muted">A sweet dessert consisting of one or more layers.</p>
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/menu/15.jpg" alt="..." />
+                                    <p>The main, and thickest, layer consists of a mixture of a soft, fresh cheese, eggs, and sugar. If there is a bottom layer,
+                                     it most often consists of a crust or base made from crushed cookies, graham crackers, pastry, or sometimes sponge cake.</p>
                                     <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
                                         <i class="fas fa-xmark me-1"></i>
-                                        Close Project
+                                        Close Menu
                                     </button>
                                 </div>
                             </div>
@@ -527,23 +485,14 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Project Name</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/menu/6.jpg" alt="..." />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-                                    <ul class="list-inline">
-                                        <li>
-                                            <strong>Client:</strong>
-                                            Window
-                                        </li>
-                                        <li>
-                                            <strong>Category:</strong>
-                                            Photography
-                                        </li>
-                                    </ul>
+                                    <h2 class="text-uppercase">Thai Pork Rib Soup</h2>
+                                    <p class="item-intro text-muted">This Thai Spicy Pork Rib Soup boasts a delicious hot and sour broth that is infused 
+                                        with plenty of fragrant aromatics and herbs.</p>
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/menu/16.jpg" alt="..." />
+                                    <p>It's full of juicy and tender pork spare ribs, and super warming and comforting on a chilly fall or winter day!</p>
                                     <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
                                         <i class="fas fa-xmark me-1"></i>
-                                        Close Project
+                                        Close Menu
                                     </button>
                                 </div>
                             </div>

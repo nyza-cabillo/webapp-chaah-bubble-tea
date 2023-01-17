@@ -9,8 +9,8 @@
         <!-- Masthead-->
         <header class="masthead">
             <div class="container">
-                <div class="masthead-subheading">Welcome To Our Studio!</div>
-                <div class="masthead-heading text-uppercase">It's Nice To Meet You</div>
+                <div class="masthead-heading text-uppercase">Cha'ah Bubble Tea</div>
+                <div class="masthead-subheading ">"Great coffee will make your meal tastier"</div>
                 <a class="btn btn-primary btn-xl text-uppercase" href="#services">Tell Me More</a>
             </div>
         </header>
@@ -27,7 +27,7 @@
                             <i class="fas fa-circle fa-stack-2x text-primary"></i>
                             <i class="fas fa-shopping-cart fa-stack-1x fa-inverse"></i>
                         </span>
-                        <h4 class="my-3">E-Commerce</h4>
+                        <h4 class="my-3">Dine-in</h4>
                         <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
                     </div>
                     <div class="col-md-4">
@@ -35,7 +35,7 @@
                             <i class="fas fa-circle fa-stack-2x text-primary"></i>
                             <i class="fas fa-laptop fa-stack-1x fa-inverse"></i>
                         </span>
-                        <h4 class="my-3">Responsive Design</h4>
+                        <h4 class="my-3">Costumer Pickup</h4>
                         <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
                     </div>
                     <div class="col-md-4">
@@ -43,107 +43,107 @@
                             <i class="fas fa-circle fa-stack-2x text-primary"></i>
                             <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
                         </span>
-                        <h4 class="my-3">Web Security</h4>
+                        <h4 class="my-3">Delivery area 5km</h4>
                         <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
                     </div>
                 </div>
             </div>
         </section>
-        <!-- Portfolio Grid-->
-        <section class="page-section bg-light" id="portfolio">
+        <!-- menu Grid-->
+        <section class="page-section bg-light" id="menu">
             <div class="container">
                 <div class="text-center">
-                    <h2 class="section-heading text-uppercase">Portfolio</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h2 class="section-heading text-uppercase">menu</h2>
+                    <h3 class="section-subheading text-muted">Highlights for Dining</h3>
                 </div>
                 <div class="row">
                     <div class="col-lg-4 col-sm-6 mb-4">
-                        <!-- Portfolio item 1-->
-                        <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal1">
-                                <div class="portfolio-hover">
-                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+                        <!-- menu item 1-->
+                        <div class="menu-item">
+                            <a class="menu-link" data-bs-toggle="modal" href="#menuModal1">
+                                <div class="menu-hover">
+                                    <div class="menu-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/1.jpg" alt="..." />
+                                <img class="img-fluid" src="assets/img/menu/1.jpg" alt="..." />
                             </a>
-                            <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Threads</div>
-                                <div class="portfolio-caption-subheading text-muted">Illustration</div>
+                            <div class="menu-caption">
+                                <div class="menu-caption-heading">Pad Thai</div>
+                                <div class="menu-caption-subheading text-muted">Menu#1</div>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6 mb-4">
-                        <!-- Portfolio item 2-->
-                        <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal2">
-                                <div class="portfolio-hover">
-                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+                        <!-- menu item 2-->
+                        <div class="menu-item">
+                            <a class="menu-link" data-bs-toggle="modal" href="#menuModal2">
+                                <div class="menu-hover">
+                                    <div class="menu-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/2.jpg" alt="..." />
+                                <img class="img-fluid" src="assets/img/menu/2.jpg" alt="..." />
                             </a>
-                            <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Explore</div>
-                                <div class="portfolio-caption-subheading text-muted">Graphic Design</div>
+                            <div class="menu-caption">
+                                <div class="menu-caption-heading">Chicken Burger</div>
+                                <div class="menu-caption-subheading text-muted">Menu#2</div>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6 mb-4">
-                        <!-- Portfolio item 3-->
-                        <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal3">
-                                <div class="portfolio-hover">
-                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+                        <!-- menu item 3-->
+                        <div class="menu-item">
+                            <a class="menu-link" data-bs-toggle="modal" href="#menuModal3">
+                                <div class="menu-hover">
+                                    <div class="menu-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/3.jpg" alt="..." />
+                                <img class="img-fluid" src="assets/img/menu/3.jpg" alt="..." />
                             </a>
-                            <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Finish</div>
-                                <div class="portfolio-caption-subheading text-muted">Identity</div>
+                            <div class="menu-caption">
+                                <div class="menu-caption-heading">Tapsilog</div>
+                                <div class="menu-caption-subheading text-muted">Menu#3</div>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6 mb-4 mb-lg-0">
-                        <!-- Portfolio item 4-->
-                        <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal4">
-                                <div class="portfolio-hover">
-                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+                        <!-- menu item 4-->
+                        <div class="menu-item">
+                            <a class="menu-link" data-bs-toggle="modal" href="#menuModal4">
+                                <div class="menu-hover">
+                                    <div class="menu-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/4.jpg" alt="..." />
+                                <img class="img-fluid" src="assets/img/menu/4.jpg" alt="..." />
                             </a>
-                            <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Lines</div>
-                                <div class="portfolio-caption-subheading text-muted">Branding</div>
+                            <div class="menu-caption">
+                                <div class="menu-caption-heading">Pork Satay</div>
+                                <div class="menu-caption-subheading text-muted">Menu#4</div>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6 mb-4 mb-sm-0">
-                        <!-- Portfolio item 5-->
-                        <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal5">
-                                <div class="portfolio-hover">
-                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+                        <!-- menu item 5-->
+                        <div class="menu-item">
+                            <a class="menu-link" data-bs-toggle="modal" href="#menuModal5">
+                                <div class="menu-hover">
+                                    <div class="menu-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/5.jpg" alt="..." />
+                                <img class="img-fluid" src="assets/img/menu/5.jpg" alt="..." />
                             </a>
-                            <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Southwest</div>
-                                <div class="portfolio-caption-subheading text-muted">Website Design</div>
+                            <div class="menu-caption">
+                                <div class="menu-caption-heading">CheeseCake</div>
+                                <div class="menu-caption-subheading text-muted">Menu#5</div>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6">
-                        <!-- Portfolio item 6-->
-                        <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal6">
-                                <div class="portfolio-hover">
-                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+                        <!-- menu item 6-->
+                        <div class="menu-item">
+                            <a class="menu-link" data-bs-toggle="modal" href="#menuModal6">
+                                <div class="menu-hover">
+                                    <div class="menu-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/6.jpg" alt="..." />
+                                <img class="img-fluid" src="assets/img/menu/6.jpg" alt="..." />
                             </a>
-                            <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Window</div>
-                                <div class="portfolio-caption-subheading text-muted">Photography</div>
+                            <div class="menu-caption">
+                                <div class="menu-caption-heading">Thai Pork Rib Soup</div>
+                                <div class="menu-caption-subheading text-muted">Menu#6</div>
                             </div>
                         </div>
                     </div>
@@ -155,60 +155,45 @@
             <div class="container">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">About</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
                 </div>
                 <ul class="timeline">
                     <li>
                         <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/1.jpg" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h4>2009-2011</h4>
-                                <h4 class="subheading">Our Humble Beginnings</h4>
+                                <h4>Location</h4>
                             </div>
-                            <div class="timeline-body"><p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p></div>
+                            <div class="timeline-body"><p class="text-muted">Jose Abad St corner, Capitol Dr, Butuan City, Agusan Del Norte, Butuan City, Philippines</p></div>
                         </div>
                     </li>
                     <li class="timeline-inverted">
                         <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/2.jpg" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h4>March 2011</h4>
-                                <h4 class="subheading">An Agency is Born</h4>
+                                <h4>Open Hours</h4>
                             </div>
-                            <div class="timeline-body"><p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p></div>
+                            <div class="timeline-body"><p class="text-muted">Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday</p></div>
                         </div>
                     </li>
                     <li>
                         <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/3.jpg" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h4>December 2015</h4>
-                                <h4 class="subheading">Transition to Full Service</h4>
+                                <h4>Contact Number</h4>
                             </div>
-                            <div class="timeline-body"><p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p></div>
+                            <div class="timeline-body"><p class="text-muted">09190075586<br>juyen052416@yahoo.com</p></div>
                         </div>
                     </li>
                     <li class="timeline-inverted">
                         <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/4.jpg" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h4>July 2020</h4>
-                                <h4 class="subheading">Phase Two Expansion</h4>
+                                <h4>Facebook Page</h4>
                             </div>
-                            <div class="timeline-body"><p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p></div>
+                            <div class="timeline-body"><p class="text-muted">Cha'ah by: Juyens<br>https://www.facebook.com/chaahbyjuyens1/</p></div>
                         </div>
                     </li>
-                    <li class="timeline-inverted">
-                        <div class="timeline-image">
-                            <h4>
-                                Be Part
-                                <br />
-                                Of Our
-                                <br />
-                                Story!
-                            </h4>
-                        </div>
-                    </li>
+                    
                 </ul>
             </div>
         </section>
@@ -261,16 +246,16 @@
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-md-3 col-sm-6 my-3">
-                        <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="assets/img/logos/microsoft.svg" alt="..." aria-label="Microsoft Logo" /></a>
+                        <a href="https://www.google.com/maps/place/Cha'ah+Bubble+Tea/@8.9415709,125.5353307,17z/data=!4m5!3m4!1s0x3301c157d206cca7:0xf997725934505929!8m2!3d8.9415942!4d125.535392"><img class="img-fluid img-brand d-block mx-auto" src="assets/img/logos/Googlemap.jpg" alt="..." aria-label="GoogleMap Logo" /></a>
                     </div>
                     <div class="col-md-3 col-sm-6 my-3">
-                        <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="assets/img/logos/google.svg" alt="..." aria-label="Google Logo" /></a>
+                        <a href="https://www.facebook.com/chaahbyjuyens1"><img class="img-fluid img-brand d-block mx-auto" src="assets/img/logos/facebook.jpg" alt="..." aria-label="Facebook Logo" /></a>
                     </div>
                     <div class="col-md-3 col-sm-6 my-3">
-                        <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="assets/img/logos/facebook.svg" alt="..." aria-label="Facebook Logo" /></a>
+                        <a href="https://www.instagram.com/chaahbyjuyens/?hl=en"><img class="img-fluid img-brand d-block mx-auto" src="assets/img/logos/logo-instagram.webp" alt="..." aria-label="Instagram Logo" /></a>
                     </div>
                     <div class="col-md-3 col-sm-6 my-3">
-                        <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="assets/img/logos/ibm.svg" alt="..." aria-label="IBM Logo" /></a>
+                        <a href="https://mobile.twitter.com/chaahbyjuyens"><img class="img-fluid img-brand d-block mx-auto" src="assets/img/logos/twitterlogo.png" alt="..." aria-label="Twitter Logo" /></a>
                     </div>
                 </div>
             </div>
@@ -345,9 +330,9 @@
                 <div class="row align-items-center">
                     <div class="col-lg-4 text-lg-start">Copyright &copy; Your Website 2022</div>
                     <div class="col-lg-4 my-3 my-lg-0">
-                        <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
-                        <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
-                        <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
+                        <a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/chaahbyjuyens1" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
+                        <a class="btn btn-dark btn-social mx-2" href="https://www.instagram.com/chaahbyjuyens/?hl=en" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+                        <a class="btn btn-dark btn-social mx-2" href="https://mobile.twitter.com/chaahbyjuyens" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
                     </div>
                     <div class="col-lg-4 text-lg-end">
                         <a class="link-dark text-decoration-none me-3" href="#!">Privacy Policy</a>
@@ -356,9 +341,9 @@
                 </div>
             </div>
         </footer>
-        <!-- Portfolio Modals-->
-        <!-- Portfolio item 1 modal popup-->
-        <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
+        <!-- menu Modals-->
+        <!-- menu item 1 modal popup-->
+        <div class="menu-modal modal fade" id="menuModal1" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
                     <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
@@ -369,7 +354,7 @@
                                     <!-- Project details-->
                                     <h2 class="text-uppercase">Project Name</h2>
                                     <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/1.jpg" alt="..." />
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/menu/1.jpg" alt="..." />
                                     <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                                     <ul class="list-inline">
                                         <li>
@@ -392,8 +377,8 @@
                 </div>
             </div>
         </div>
-        <!-- Portfolio item 2 modal popup-->
-        <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
+        <!-- menu item 2 modal popup-->
+        <div class="menu-modal modal fade" id="menuModal2" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
                     <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
@@ -404,7 +389,7 @@
                                     <!-- Project details-->
                                     <h2 class="text-uppercase">Project Name</h2>
                                     <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/2.jpg" alt="..." />
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/menu/2.jpg" alt="..." />
                                     <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                                     <ul class="list-inline">
                                         <li>
@@ -427,8 +412,8 @@
                 </div>
             </div>
         </div>
-        <!-- Portfolio item 3 modal popup-->
-        <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
+        <!-- menu item 3 modal popup-->
+        <div class="menu-modal modal fade" id="menuModal3" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
                     <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
@@ -439,7 +424,7 @@
                                     <!-- Project details-->
                                     <h2 class="text-uppercase">Project Name</h2>
                                     <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/3.jpg" alt="..." />
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/menu/3.jpg" alt="..." />
                                     <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                                     <ul class="list-inline">
                                         <li>
@@ -462,8 +447,8 @@
                 </div>
             </div>
         </div>
-        <!-- Portfolio item 4 modal popup-->
-        <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
+        <!-- menu item 4 modal popup-->
+        <div class="menu-modal modal fade" id="menuModal4" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
                     <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
@@ -474,7 +459,7 @@
                                     <!-- Project details-->
                                     <h2 class="text-uppercase">Project Name</h2>
                                     <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/4.jpg" alt="..." />
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/menu/4.jpg" alt="..." />
                                     <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                                     <ul class="list-inline">
                                         <li>
@@ -497,8 +482,8 @@
                 </div>
             </div>
         </div>
-        <!-- Portfolio item 5 modal popup-->
-        <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
+        <!-- menu item 5 modal popup-->
+        <div class="menu-modal modal fade" id="menuModal5" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
                     <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
@@ -509,7 +494,7 @@
                                     <!-- Project details-->
                                     <h2 class="text-uppercase">Project Name</h2>
                                     <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/5.jpg" alt="..." />
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/menu/5.jpg" alt="..." />
                                     <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                                     <ul class="list-inline">
                                         <li>
@@ -532,8 +517,8 @@
                 </div>
             </div>
         </div>
-        <!-- Portfolio item 6 modal popup-->
-        <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
+        <!-- menu item 6 modal popup-->
+        <div class="menu-modal modal fade" id="menuModal6" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
                     <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
@@ -544,7 +529,7 @@
                                     <!-- Project details-->
                                     <h2 class="text-uppercase">Project Name</h2>
                                     <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/6.jpg" alt="..." />
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/menu/6.jpg" alt="..." />
                                     <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                                     <ul class="list-inline">
                                         <li>

@@ -147,7 +147,8 @@
                         </div>
                     </div>
                     <div class="text-center"><br>
-                    <a class="btn btn-primary btn-xl text-uppercase" href="assets/img/menu/Cha'ah Menu.jpg"  rel="noopener noreferrer" target="_blank" >Menu</a>
+                    <a class="btn btn-primary btn-xl text-uppercase" href="https://www.facebook.com/chaahbyjuyens1/posts/pfbid0Qxyp2sv7wiMAW22HLXMrTMyXL6w1U4tgcKFDEixQKh3pPfrkDpaS19LTDMBe5cQ9l"  rel="noopener noreferrer" target="_blank" >
+                    Menu</a>
                     </div>
                 </div>
             </div>
@@ -200,49 +201,90 @@
             </div>
         </section>
         <!-- Team-->
-        <section class="page-section bg-light" id="team">
-            <div class="container">
-                <div class="text-center">
-                    <h2 class="section-heading text-uppercase">Our Amazing Team</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
-                </div>
-                <div class="row">
-                    <div class="col-lg-4">
-                        <div class="team-member">
-                            <img class="mx-auto rounded-circle" src="assets/img/team/1.jpg" alt="..." />
-                            <h4>Parveen Anand</h4>
-                            <p class="text-muted">Lead Designer</p>
-                            <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Parveen Anand Twitter Profile"><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Parveen Anand Facebook Profile"><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Parveen Anand LinkedIn Profile"><i class="fab fa-linkedin-in"></i></a>
-                        </div>
-                    </div>
-                    <div class="col-lg-4">
-                        <div class="team-member">
-                            <img class="mx-auto rounded-circle" src="assets/img/team/2.jpg" alt="..." />
-                            <h4>Diana Petersen</h4>
-                            <p class="text-muted">Lead Marketer</p>
-                            <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Diana Petersen Twitter Profile"><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Diana Petersen Facebook Profile"><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Diana Petersen LinkedIn Profile"><i class="fab fa-linkedin-in"></i></a>
-                        </div>
-                    </div>
-                    <div class="col-lg-4">
-                        <div class="team-member">
-                            <img class="mx-auto rounded-circle" src="assets/img/team/3.jpg" alt="..." />
-                            <h4>Larry Parker</h4>
-                            <p class="text-muted">Lead Developer</p>
-                            <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker Twitter Profile"><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker Facebook Profile"><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker LinkedIn Profile"><i class="fab fa-linkedin-in"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-8 mx-auto text-center"><p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p></div>
-                </div>
+        <!-- ======= team Section ======= -->
+    <section id="team" class="team section-bg">
+      <div class="container">
+
+            <div class="section-title">
+            <h2>Reviews</h2>
+            <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
             </div>
-        </section>
+
+            <div class="team-slider swiper" data-aos="fade-up" data-aos-delay="100">
+            <div class="swiper-wrapper">
+
+                <div class="swiper-slide">
+                <div class="testimonial-item" data-aos="fade-up">
+                    <p>
+                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                    Fun place, awesome setting, good food! The curry beef was delicious, very tender and a lot of beef. But the pineapple fried rice not so tasty. And way too much! This should be a smaller side dish. Loved the setting but menu needs a little work.                  
+                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                    </p>
+                    <img src="assets/img/team/tes1.png" class="testimonial-img" alt="">
+                    <h3>Jeff Sharpton</h3>
+                    <h4>Local Guide</h4>
+                </div>
+                </div><!-- End testimonial item -->
+
+                <div class="swiper-slide">
+                <div class="testimonial-item" data-aos="fade-up" data-aos-delay="100">
+                    <p>
+                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                    I recommend this place! The place is nice at night because of the lights outside. The tables are lovely since they are made of wood. Server are kind and big food portions. For foreigners with big appetite this place is best.. For Filipinos, one dish is good for two.                  
+                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                    </p>
+                    <img src="assets/img/team/tes2.png" class="testimonial-img" alt="">
+                    <h3>Marivic Yacapin</h3>
+                    <h4>Local Guide</h4>
+                </div>
+                </div><!-- End testimonial item -->
+
+                <div class="swiper-slide">
+                <div class="testimonial-item" data-aos="fade-up" data-aos-delay="200">
+                    <p>
+                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                    Nice cozy place to listen to live music, food is lovely affordable. Not recommended for heavy drinkers, because its quite pricey. Overall, dining in is great.
+                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                    </p>
+                    <img src="assets/img/team/tes3.png" class="testimonial-img" alt="">
+                    <h3>Emmy Mordz</h3>
+                    <h4>Local Guide</h4>
+                </div>
+                </div><!-- End testimonial item -->
+
+                <div class="swiper-slide">
+                <div class="testimonial-item" data-aos="fade-up" data-aos-delay="300">
+                    <p>
+                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                    Food is good, price a little pricey but expected from the output. Relaxing atmosphere and good for nightography. Restroom could be better.                  
+                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                    </p>
+                    <img src="assets/img/team/tes5.png" class="testimonial-img" alt="">
+                    <h3>Papapau Papapau</h3>
+                    <h4>Local Guide</h4>
+                </div>
+                </div><!-- End testimonial item -->
+
+                <div class="swiper-slide">
+                <div class="testimonial-item" data-aos="fade-up" data-aos-delay="400">
+                    <p>
+                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                    Service was superb, great ambiance and crews were approachable. Food and drinks are reasonably priced. Live singers were awesome.
+                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                    </p>
+                    <img src="assets/img/team/tes4.png" class="testimonial-img" alt="">
+                    <h3>nova lumactod</h3>
+                    <h4>Local Guide</h4>
+                </div>
+                </div><!-- End testimonial item -->
+
+            </div>
+                <div class="swiper-pagination"></div>
+            </div>
+
+      </div>
+    </section><!-- End team Section -->
+    
         <!-- Clients-->
         <div class="py-5">
             <div class="container">

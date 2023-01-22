@@ -10,7 +10,7 @@
             <div class="bg-white dark:bg-gray-800 overflow-hidden shadow-sm sm:rounded-lg">
                 <div class="p-6 text-gray-900 dark:text-gray-100">
                     
-                <h1> Hi! Welcome to Cha'ah Bubble Tea {{ Auth::user()->name}} </h1>
+                <h1> Hi! Welcome to Cha'ah Bubble Tea.<br> THANK YOU for LOGGING IN!!! {{ Auth::user()->name}} </h1>
 
 
                 </div>
@@ -18,3 +18,4 @@
         </div>
     </div>
 </x-app-layout>
+ 
